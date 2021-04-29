@@ -76,7 +76,7 @@ class Template extends StatelessWidget {
                     ),
                   ),
                   Container(
-                    height: 25,
+                    height: 5,
                     width: double.infinity,
                     color: Colors.amber,
                   ),
